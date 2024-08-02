@@ -1,0 +1,110 @@
+{
+  "name": "G. Naga Sai Karthik",
+  "contact_information": {
+    "email": "godugusaikarthik847@gmail.com",
+    "phone": "+91-9346738029",
+    "linkedin": "www.linkedin.com/in/g-nagasaikarthik",
+    "github": "github.com/Nagasaikarthik"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Lovely Professional University, Punjab",
+      "CGPA": "6.90",
+      "duration": "2021 - Present"
+    },
+    {
+      "institution": "Sri Chaitanya Junior College, Vijayawada",
+      "qualification": "Class XII",
+      "percentage": "95.40%",
+      "duration": "2019 - 2020"
+    },
+    {
+      "institution": "Sri Rama Krishna Gurukulam, Rentachintala",
+      "qualification": "Class X",
+      "percentage": "97%",
+      "duration": "2017 - 2018"
+    }
+  ],
+  "skills": {
+    "machine_learning": [
+      "Deep Learning",
+      "Neural Networks",
+      "Decision Trees",
+      "Ensemble Methods",
+      "Gradient Boosting",
+      "Support Vector Machines"
+    ],
+    "programming_scripting": [
+      "Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras)",
+      "R",
+      "C++",
+      "SQL"
+    ],
+    "big_data_technologies": [
+      "Hadoop",
+      "Spark"
+    ],
+    "tools_platforms": [
+      "AWS (SageMaker, Lambda, EC2)",
+      "Azure ML",
+      "Jupyter"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Image Caption Generator",
+      "description": "Built CNN and LSTM models using Pytorch to create Image Caption Generators. Developed CNN encoder and RNN decoder, tuned hyperparameters, and trained the models. Implemented an encoder-decoder architecture combining image and text processing.",
+      "technologies_used": [
+        "Pytorch",
+        "NLP",
+        "CNN",
+        "LSTM"
+      ],
+      "learning_outcomes": "Enhanced understanding of Deep Learning applications, specifically Image Captioning."
+    },
+    {
+      "title": "Cardio-Vascular Disease Prediction using Machine Learning Algorithms",
+      "description": "Utilized Kaggle datasets to train and validate the model's accuracy. Implemented feature engineering and collaborated with healthcare professionals to optimize the model. Presented project findings to stakeholders for decision-making.",
+      "technologies_used": [
+        "Python (NumPy, Pandas, Scikit-Learn)",
+        "Machine Learning Algorithms (Random Forest, Support Vector Machines, Logistic Regression)",
+        "Data Preprocessing and Visualization (Matplotlib, Seaborn)"
+      ],
+      "learning_outcomes": "Deepened understanding of machine learning algorithms and their applications in healthcare."
+    },
+    {
+      "title": "Library Management System",
+      "description": "Developed a system to manage book circulation, including issuing, returning, and fine calculation for late returns. Implemented CRUD functionalities and designed an intuitive interface for administrators and users.",
+      "technologies_used": [
+        "C++",
+        "OOP concepts"
+      ],
+      "learning_outcomes": "Enhanced proficiency in C++ programming."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Data Structures and Algorithms with C++",
+      "institution": "LPU | Cipher Schools"
+    },
+    {
+      "title": "Introduction to Artificial Intelligence(AI)",
+      "institution": "IBM"
+    },
+    {
+      "title": "4-star rating in Python Programming",
+      "institution": "HackerRank"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Published Patent on Machine Learning",
+      "description": "Developed and published a patent on a machine learning model for bike-sharing prediction."
+    },
+    {
+      "title": "Academic Excellence Award",
+      "description": "Received recognition for overall academic performance and secured high marks in Science (98%) in higher secondary."
+    }
+  ]
+}
